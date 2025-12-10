@@ -1,0 +1,839 @@
+[
+    {
+        "nombre": "Jalabujero, el Abandonado",
+        "imagen": "https://static.ankama.com/wakfu/portal/game/monster/200/100204086.png",
+        "nivel": "23 a 28",
+        "lugar": "Tainela",
+        "drops": "https://www.wakfu.com/es/mmorpg/enciclopedia/monstruos/4086-jalabujero-abandonado",
+        "fecha_ejecucion": "",
+        "time_respwan": ""
+    },
+    {
+        "nombre": "Jalabujero, el Abandonado",
+        "imagen": "https://static.ankama.com/wakfu/portal/game/monster/200/100204086.png",
+        "nivel": "23 a 28",
+        "lugar": "Llanura de Astrub",
+        "drops": "https://www.wakfu.com/es/mmorpg/enciclopedia/monstruos/4086-jalabujero-abandonado",
+        "fecha_ejecucion": "",
+        "time_respwan": ""
+    },
+    {
+        "nombre": "Ganchudo, el Acerado",
+        "imagen": "https://static.ankama.com/wakfu/portal/game/monster/200/100104101.png",
+        "nivel": "23 a 28",
+        "lugar": "Campos Astrub",
+        "drops": "https://www.wakfu.com/es/mmorpg/enciclopedia/monstruos/4101-ganchudo-acerado",
+        "fecha_ejecucion": "",
+        "time_respwan": ""
+    },
+    {
+        "nombre": "Lartificia, la Explosiva",
+        "imagen": "https://static.ankama.com/wakfu/portal/game/monster/200/101404097.png",
+        "nivel": "23 a 28",
+        "lugar": "Alcantarillas Astrub",
+        "drops": "https://www.wakfu.com/es/mmorpg/enciclopedia/monstruos/4097-lartificia-explosiva",
+        "fecha_ejecucion": "",
+        "time_respwan": ""
+    },
+    {
+        "nombre": "Marquesino, el Protector",
+        "imagen": "https://static.ankama.com/wakfu/portal/game/monster/200/182804098.png",
+        "nivel": "38 a 43",
+        "lugar": "Bosques Astrub",
+        "drops": "https://www.wakfu.com/es/mmorpg/enciclopedia/monstruos/4098-marquesino-protector",
+        "fecha_ejecucion": "",
+        "time_respwan": ""
+    },
+    {
+        "nombre": "Piupiu, el Artillero",
+        "imagen": "https://static.ankama.com/wakfu/portal/game/monster/200/101504100.png",
+        "nivel": "38 a 43",
+        "lugar": "Montañas Astrub",
+        "drops": "https://www.wakfu.com/es/mmorpg/enciclopedia/monstruos/4100-piupiu-artillero",
+        "fecha_ejecucion": "",
+        "time_respwan": ""
+    },
+    {
+        "nombre": "Crujenueces el Molesto",
+        "imagen": "https://static.ankama.com/wakfu/portal/game/monster/200/129004368.png",
+        "nivel": "53 a 58",
+        "lugar": "Bosque de Emelka",
+        "drops": "https://www.wakfu.com/es/mmorpg/enciclopedia/monstruos/4368-crujenueces-molesto",
+        "fecha_ejecucion": "",
+        "time_respwan": ""
+    },
+    {
+        "nombre": "Crujenueces el Molesto",
+        "imagen": "https://static.ankama.com/wakfu/portal/game/monster/200/129004368.png",
+        "nivel": "53 a 58",
+        "lugar": "Minas de Amakna - Galería",
+        "drops": "https://www.wakfu.com/es/mmorpg/enciclopedia/monstruos/4368-crujenueces-molesto",
+        "fecha_ejecucion": "",
+        "time_respwan": ""
+    },
+    {
+        "nombre": "Rocío la Matinal",
+        "imagen": "https://static.ankama.com/wakfu/portal/game/monster/200/101600401.png",
+        "nivel": "53 a 58",
+        "lugar": "Campos Catarines",
+        "drops": "https://www.wakfu.com/es/mmorpg/enciclopedia/monstruos/5005-rocio-matinal",
+        "fecha_ejecucion": "",
+        "time_respwan": ""
+    },
+    {
+        "nombre": "Diente de Lennon, el Universal",
+        "imagen": "https://static.ankama.com/wakfu/portal/game/monster/200/101601636.png",
+        "nivel": "45",
+        "lugar": "Campos Catarines",
+        "drops": "https://www.wakfu.com/es/mmorpg/enciclopedia/monstruos/1636-diente-lennon-universal",
+        "fecha_ejecucion": "",
+        "time_respwan": ""
+    },
+    {
+        "nombre": "Pacmuuungr, la Hambrienta",
+        "imagen": "https://i.imgur.com/KqQt1WN.png",
+        "nivel": "53 a 58",
+        "lugar": "Campos Catarines",
+        "drops": "https://www.wakfu.com/es/mmorpg/enciclopedia/monstruos/1632-pacmuuungr-hambrienta",
+        "fecha_ejecucion": "",
+        "time_respwan": ""
+    },
+    {
+        "nombre": "Jalapatillas, el Greñudo",
+        "imagen": "https://static.ankama.com/wakfu/portal/game/monster/200/158104371.png",
+        "nivel": "68 a 73",
+        "lugar": "Isla salvaje",
+        "drops": "https://www.wakfu.com/es/mmorpg/enciclopedia/monstruos/4371-jalapatillas-grenudo",
+        "fecha_ejecucion": "",
+        "time_respwan": ""
+    },
+    {
+        "nombre": "Kangwalbino, el pálido",
+        "imagen": "https://static.ankama.com/wakfu/portal/game/monster/200/177804154.png",
+        "nivel": "68 a 73",
+        "lugar": "Duna Cana",
+        "drops": "https://www.wakfu.com/es/mmorpg/enciclopedia/monstruos/4752-kangwalbino-palido",
+        "fecha_ejecucion": "",
+        "time_respwan": ""
+    },
+    {
+        "nombre": "Kokoblongo el Vertical",
+        "imagen": "https://static.ankama.com/wakfu/portal/game/monster/200/135502116.png",
+        "nivel": "68 a 73",
+        "lugar": "Duna Cana",
+        "drops": "https://www.wakfu.com/es/mmorpg/enciclopedia/monstruos/4737-kokoblongo-vertical",
+        "fecha_ejecucion": "",
+        "time_respwan": ""
+    },
+    {
+        "nombre": "Viejo Binsón y Viernoche",
+        "imagen": "https://i.imgur.com/flPYuZW.png, https://static.ankama.com/wakfu/portal/game/monster/200/100501383.png",
+        "nivel": "65",
+        "lugar": "Duna Cana, dentro de la mazmorra Kokolost Island",
+        "drops": "https://www.wakfu.com/es/mmorpg/enciclopedia/monstruos/1751-viejo-binson, https://www.wakfu.com/es/mmorpg/enciclopedia/monstruos/1753-viernoche",
+        "fecha_ejecucion": "",
+        "time_respwan": ""
+    },
+    {
+        "nombre": "Makhar, la Roja",
+        "imagen": "https://i.imgur.com/BOp0NnA.jpg",
+        "nivel": "68 a 73",
+        "lugar": "Pup island",
+        "drops": "https://www.wakfu.com/es/mmorpg/enciclopedia/monstruos/4380-makhar-roja",
+        "fecha_ejecucion": "",
+        "time_respwan": ""
+    },
+    {
+        "nombre": "Kraken",
+        "imagen": "https://static.ankama.com/wakfu/portal/game/monster/200/188104255.png",
+        "nivel": "68 a 73",
+        "lugar": "Playa de Zinit",
+        "drops": "https://www.wakfu.com/es/mmorpg/enciclopedia/monstruos/4255-kraken",
+        "fecha_ejecucion": "",
+        "time_respwan": ""
+    },
+    {
+        "nombre": "Tiburobusto",
+        "imagen": "https://static.ankama.com/wakfu/portal/game/monster/200/135902117.png",
+        "nivel": "68 a 73",
+        "lugar": "Playa de Zinit",
+        "drops": "https://www.wakfu.com/es/mmorpg/enciclopedia/monstruos/4267-tiburobusto",
+        "fecha_ejecucion": "",
+        "time_respwan": ""
+    },
+    {
+        "nombre": "Jabachlí el Casto",
+        "imagen": "https://i.imgur.com/o47c58H.png",
+        "nivel": "83 a 88",
+        "lugar": "Llanuras de Cania",
+        "drops": "https://www.wakfu.com/es/mmorpg/enciclopedia/monstruos/4765-jabachli-casto",
+        "fecha_ejecucion": "",
+        "time_respwan": ""
+    },
+    {
+        "nombre": "Pestrunks, el Viajante del tiempo",
+        "imagen": "https://static.ankama.com/wakfu/portal/game/monster/200/128801631.png",
+        "nivel": "83 a 88",
+        "lugar": "Kara",
+        "drops": "https://www.wakfu.com/es/mmorpg/enciclopedia/monstruos/1631-pestrunks-viajante-tiempo",
+        "fecha_ejecucion": "",
+        "time_respwan": ""
+    },
+    {
+        "nombre": "Chamboo, el Samurái",
+        "imagen": "https://static.ankama.com/wakfu/portal/game/monster/200/120001277.png",
+        "nivel": "83 a 88",
+        "lugar": "Minas de Bonta - Galería",
+        "drops": "https://www.wakfu.com/es/mmorpg/enciclopedia/monstruos/1639-chamboo-samurai",
+        "fecha_ejecucion": "",
+        "time_respwan": ""
+    },
+    {
+        "nombre": "Abrakno Kadabrakno la maga",
+        "imagen": "https://static.ankama.com/wakfu/portal/game/monster/200/1103805109.png",
+        "nivel": "83 a 88",
+        "lugar": "Colina entelada",
+        "drops": "https://www.wakfu.com/es/mmorpg/enciclopedia/monstruos/5109-abrakno-kadabrakno-maga",
+        "fecha_ejecucion": "",
+        "time_respwan": ""
+    },
+    {
+        "nombre": "Mulligan, el Descartador",
+        "imagen": "https://static.ankama.com/wakfu/portal/game/monster/200/105502130.png",
+        "nivel": "83 a 88",
+        "lugar": "Claro de los milubos",
+        "drops": "https://www.wakfu.com/es/mmorpg/enciclopedia/monstruos/5127-mulligan-descartador",
+        "fecha_ejecucion": "",
+        "time_respwan": ""
+    },
+    {
+        "nombre": "Tigris Smis",
+        "imagen": "https://static.ankama.com/wakfu/portal/game/monster/200/120201407.png",
+        "nivel": "83 a 88",
+        "lugar": "Landas de Kelba",
+        "drops": "https://www.wakfu.com/es/mmorpg/enciclopedia/monstruos/3701-tigris-smis",
+        "fecha_ejecucion": "",
+        "time_respwan": ""
+    },
+    {
+        "nombre": "Orroquimaru, el Rastrero",
+        "imagen": "https://static.ankama.com/wakfu/portal/game/monster/200/173804370.png",
+        "nivel": "83 a 88",
+        "lugar": "Picos de Kelba",
+        "drops": "https://www.wakfu.com/es/mmorpg/enciclopedia/monstruos/4370-orroquimaru-rastrero",
+        "fecha_ejecucion": "",
+        "time_respwan": ""
+    },
+    {
+        "nombre": "Ratafeo, el Tambaleante",
+        "imagen": "https://static.ankama.com/wakfu/portal/game/monster/200/107704481.png",
+        "nivel": "83 a 88",
+        "lugar": "Isla de los monjes",
+        "drops": "https://www.wakfu.com/es/mmorpg/enciclopedia/monstruos/4481-ratafeo-tambaleante",
+        "fecha_ejecucion": "",
+        "time_respwan": ""
+    },
+    {
+        "nombre": "Bir Alffiguem",
+        "imagen": "https://static.ankama.com/wakfu/portal/game/monster/200/138604388.png",
+        "nivel": "89 a 93",
+        "lugar": "Isla de los monjes",
+        "drops": "https://www.wakfu.com/es/mmorpg/enciclopedia/monstruos/4388-bir-alffiguem",
+        "fecha_ejecucion": "",
+        "time_respwan": ""
+    },
+    {
+        "nombre": "Escaramelo, el Derretido",
+        "imagen": "https://static.ankama.com/wakfu/portal/game/monster/200/128301738.png",
+        "nivel": "98 a 103",
+        "lugar": "Campos Téril",
+        "drops": "https://www.wakfu.com/es/mmorpg/enciclopedia/monstruos/1749-escaramelo-derretido",
+        "fecha_ejecucion": "",
+        "time_respwan": ""
+    },
+    {
+        "nombre": "Chaferrancio el Anticuado",
+        "imagen": "https://static.ankama.com/wakfu/portal/game/monster/200/104701707.png",
+        "nivel": "98 a 103",
+        "lugar": "Landas de Sidimote",
+        "drops": "https://www.wakfu.com/es/mmorpg/enciclopedia/monstruos/5019-chaferrancio-anticuado",
+        "fecha_ejecucion": "",
+        "time_respwan": ""
+    },
+    {
+        "nombre": "Chaferrancio el Anticuado",
+        "imagen": "https://static.ankama.com/wakfu/portal/game/monster/200/104701707.png",
+        "nivel": "98 a 103",
+        "lugar": "Minas de Brakmar - Galerías",
+        "drops": "https://www.wakfu.com/es/mmorpg/enciclopedia/monstruos/5019-chaferrancio-anticuado",
+        "fecha_ejecucion": "",
+        "time_respwan": ""
+    },
+    {
+        "nombre": "Chafo, el del Ocho",
+        "imagen": "https://static.ankama.com/wakfu/portal/game/monster/200/104701750.png",
+        "nivel": "95",
+        "lugar": "Landas de Sidimote dentro de la mazmorra Necrópelis de Morbax",
+        "drops": "https://www.wakfu.com/es/mmorpg/enciclopedia/monstruos/1750-chafo-ocho",
+        "fecha_ejecucion": "",
+        "time_respwan": ""
+    },
+    {
+        "nombre": "La Dama Blanca",
+        "imagen": "https://static.ankama.com/wakfu/portal/game/monster/200/177104393.png",
+        "nivel": "98 a 103",
+        "lugar": "Kuatropatas",
+        "drops": "https://www.wakfu.com/es/mmorpg/enciclopedia/monstruos/4393-dama-blanca",
+        "fecha_ejecucion": "",
+        "time_respwan": ""
+    },
+    {
+        "nombre": "Brizgalán",
+        "imagen": "https://static.ankama.com/wakfu/portal/game/monster/200/188604280.png",
+        "nivel": "98 a 103",
+        "lugar": "Cueva de los brizlones",
+        "drops": "https://www.wakfu.com/es/mmorpg/enciclopedia/monstruos/4280-brizgalan",
+        "fecha_ejecucion": "",
+        "time_respwan": ""
+    },
+    {
+        "nombre": "Amigorro el Amable",
+        "imagen": "https://static.ankama.com/wakfu/portal/game/monster/200/120504520.png",
+        "nivel": "113 a 118",
+        "lugar": "Llanura de los Riktus",
+        "drops": "https://www.wakfu.com/es/mmorpg/enciclopedia/monstruos/5010-amigorro-amable",
+        "fecha_ejecucion": "",
+        "time_respwan": ""
+    },
+    {
+        "nombre": "",
+        "imagen": "",
+        "nivel": "",
+        "lugar": "",
+        "drops": "",
+        "fecha_ejecucion": "",
+        "time_respwan": ""
+    },
+    {
+        "nombre": "",
+        "imagen": "",
+        "nivel": "",
+        "lugar": "",
+        "drops": "",
+        "fecha_ejecucion": "",
+        "time_respwan": ""
+    },
+    {
+        "nombre": "",
+        "imagen": "",
+        "nivel": "",
+        "lugar": "",
+        "drops": "",
+        "fecha_ejecucion": "",
+        "time_respwan": ""
+    },
+    {
+        "nombre": "",
+        "imagen": "",
+        "nivel": "",
+        "lugar": "",
+        "drops": "",
+        "fecha_ejecucion": "",
+        "time_respwan": ""
+    },
+    {
+        "nombre": "",
+        "imagen": "",
+        "nivel": "",
+        "lugar": "",
+        "drops": "",
+        "fecha_ejecucion": "",
+        "time_respwan": ""
+    },
+    {
+        "nombre": "",
+        "imagen": "",
+        "nivel": "",
+        "lugar": "",
+        "drops": "",
+        "fecha_ejecucion": "",
+        "time_respwan": ""
+    },
+    {
+        "nombre": "",
+        "imagen": "",
+        "nivel": "",
+        "lugar": "",
+        "drops": "",
+        "fecha_ejecucion": "",
+        "time_respwan": ""
+    },
+    {
+        "nombre": "",
+        "imagen": "",
+        "nivel": "",
+        "lugar": "",
+        "drops": "",
+        "fecha_ejecucion": "",
+        "time_respwan": ""
+    },
+    {
+        "nombre": "",
+        "imagen": "",
+        "nivel": "",
+        "lugar": "",
+        "drops": "",
+        "fecha_ejecucion": "",
+        "time_respwan": ""
+    },
+    {
+        "nombre": "",
+        "imagen": "",
+        "nivel": "",
+        "lugar": "",
+        "drops": "",
+        "fecha_ejecucion": "",
+        "time_respwan": ""
+    },
+    {
+        "nombre": "",
+        "imagen": "",
+        "nivel": "",
+        "lugar": "",
+        "drops": "",
+        "fecha_ejecucion": "",
+        "time_respwan": ""
+    },
+    {
+        "nombre": "",
+        "imagen": "",
+        "nivel": "",
+        "lugar": "",
+        "drops": "",
+        "fecha_ejecucion": "",
+        "time_respwan": ""
+    },
+    {
+        "nombre": "",
+        "imagen": "",
+        "nivel": "",
+        "lugar": "",
+        "drops": "",
+        "fecha_ejecucion": "",
+        "time_respwan": ""
+    },
+    {
+        "nombre": "",
+        "imagen": "",
+        "nivel": "",
+        "lugar": "",
+        "drops": "",
+        "fecha_ejecucion": "",
+        "time_respwan": ""
+    },
+    {
+        "nombre": "",
+        "imagen": "",
+        "nivel": "",
+        "lugar": "",
+        "drops": "",
+        "fecha_ejecucion": "",
+        "time_respwan": ""
+    },
+    {
+        "nombre": "",
+        "imagen": "",
+        "nivel": "",
+        "lugar": "",
+        "drops": "",
+        "fecha_ejecucion": "",
+        "time_respwan": ""
+    },
+    {
+        "nombre": "",
+        "imagen": "",
+        "nivel": "",
+        "lugar": "",
+        "drops": "",
+        "fecha_ejecucion": "",
+        "time_respwan": ""
+    },
+    {
+        "nombre": "",
+        "imagen": "",
+        "nivel": "",
+        "lugar": "",
+        "drops": "",
+        "fecha_ejecucion": "",
+        "time_respwan": ""
+    },
+    {
+        "nombre": "",
+        "imagen": "",
+        "nivel": "",
+        "lugar": "",
+        "drops": "",
+        "fecha_ejecucion": "",
+        "time_respwan": ""
+    },
+    {
+        "nombre": "",
+        "imagen": "",
+        "nivel": "",
+        "lugar": "",
+        "drops": "",
+        "fecha_ejecucion": "",
+        "time_respwan": ""
+    },
+    {
+        "nombre": "",
+        "imagen": "",
+        "nivel": "",
+        "lugar": "",
+        "drops": "",
+        "fecha_ejecucion": "",
+        "time_respwan": ""
+    },
+    {
+        "nombre": "",
+        "imagen": "",
+        "nivel": "",
+        "lugar": "",
+        "drops": "",
+        "fecha_ejecucion": "",
+        "time_respwan": ""
+    },
+    {
+        "nombre": "",
+        "imagen": "",
+        "nivel": "",
+        "lugar": "",
+        "drops": "",
+        "fecha_ejecucion": "",
+        "time_respwan": ""
+    },
+    {
+        "nombre": "",
+        "imagen": "",
+        "nivel": "",
+        "lugar": "",
+        "drops": "",
+        "fecha_ejecucion": "",
+        "time_respwan": ""
+    },
+    {
+        "nombre": "",
+        "imagen": "",
+        "nivel": "",
+        "lugar": "",
+        "drops": "",
+        "fecha_ejecucion": "",
+        "time_respwan": ""
+    },
+    {
+        "nombre": "",
+        "imagen": "",
+        "nivel": "",
+        "lugar": "",
+        "drops": "",
+        "fecha_ejecucion": "",
+        "time_respwan": ""
+    },
+    {
+        "nombre": "",
+        "imagen": "",
+        "nivel": "",
+        "lugar": "",
+        "drops": "",
+        "fecha_ejecucion": "",
+        "time_respwan": ""
+    },
+    {
+        "nombre": "",
+        "imagen": "",
+        "nivel": "",
+        "lugar": "",
+        "drops": "",
+        "fecha_ejecucion": "",
+        "time_respwan": ""
+    },
+    {
+        "nombre": "",
+        "imagen": "",
+        "nivel": "",
+        "lugar": "",
+        "drops": "",
+        "fecha_ejecucion": "",
+        "time_respwan": ""
+    },
+    {
+        "nombre": "",
+        "imagen": "",
+        "nivel": "",
+        "lugar": "",
+        "drops": "",
+        "fecha_ejecucion": "",
+        "time_respwan": ""
+    },
+    {
+        "nombre": "",
+        "imagen": "",
+        "nivel": "",
+        "lugar": "",
+        "drops": "",
+        "fecha_ejecucion": "",
+        "time_respwan": ""
+    },
+    {
+        "nombre": "",
+        "imagen": "",
+        "nivel": "",
+        "lugar": "",
+        "drops": "",
+        "fecha_ejecucion": "",
+        "time_respwan": ""
+    },
+    {
+        "nombre": "",
+        "imagen": "",
+        "nivel": "",
+        "lugar": "",
+        "drops": "",
+        "fecha_ejecucion": "",
+        "time_respwan": ""
+    },
+    {
+        "nombre": "",
+        "imagen": "",
+        "nivel": "",
+        "lugar": "",
+        "drops": "",
+        "fecha_ejecucion": "",
+        "time_respwan": ""
+    },
+    {
+        "nombre": "",
+        "imagen": "",
+        "nivel": "",
+        "lugar": "",
+        "drops": "",
+        "fecha_ejecucion": "",
+        "time_respwan": ""
+    },
+    {
+        "nombre": "",
+        "imagen": "",
+        "nivel": "",
+        "lugar": "",
+        "drops": "",
+        "fecha_ejecucion": "",
+        "time_respwan": ""
+    },
+    {
+        "nombre": "",
+        "imagen": "",
+        "nivel": "",
+        "lugar": "",
+        "drops": "",
+        "fecha_ejecucion": "",
+        "time_respwan": ""
+    },
+    {
+        "nombre": "",
+        "imagen": "",
+        "nivel": "",
+        "lugar": "",
+        "drops": "",
+        "fecha_ejecucion": "",
+        "time_respwan": ""
+    },
+    {
+        "nombre": "",
+        "imagen": "",
+        "nivel": "",
+        "lugar": "",
+        "drops": "",
+        "fecha_ejecucion": "",
+        "time_respwan": ""
+    },
+    {
+        "nombre": "",
+        "imagen": "",
+        "nivel": "",
+        "lugar": "",
+        "drops": "",
+        "fecha_ejecucion": "",
+        "time_respwan": ""
+    },
+    {
+        "nombre": "",
+        "imagen": "",
+        "nivel": "",
+        "lugar": "",
+        "drops": "",
+        "fecha_ejecucion": "",
+        "time_respwan": ""
+    },
+    {
+        "nombre": "",
+        "imagen": "",
+        "nivel": "",
+        "lugar": "",
+        "drops": "",
+        "fecha_ejecucion": "",
+        "time_respwan": ""
+    },
+    {
+        "nombre": "",
+        "imagen": "",
+        "nivel": "",
+        "lugar": "",
+        "drops": "",
+        "fecha_ejecucion": "",
+        "time_respwan": ""
+    },
+    {
+        "nombre": "",
+        "imagen": "",
+        "nivel": "",
+        "lugar": "",
+        "drops": "",
+        "fecha_ejecucion": "",
+        "time_respwan": ""
+    },
+    {
+        "nombre": "",
+        "imagen": "",
+        "nivel": "",
+        "lugar": "",
+        "drops": "",
+        "fecha_ejecucion": "",
+        "time_respwan": ""
+    },
+    {
+        "nombre": "",
+        "imagen": "",
+        "nivel": "",
+        "lugar": "",
+        "drops": "",
+        "fecha_ejecucion": "",
+        "time_respwan": ""
+    },
+    {
+        "nombre": "",
+        "imagen": "",
+        "nivel": "",
+        "lugar": "",
+        "drops": "",
+        "fecha_ejecucion": "",
+        "time_respwan": ""
+    },
+    {
+        "nombre": "",
+        "imagen": "",
+        "nivel": "",
+        "lugar": "",
+        "drops": "",
+        "fecha_ejecucion": "",
+        "time_respwan": ""
+    },
+    {
+        "nombre": "",
+        "imagen": "",
+        "nivel": "",
+        "lugar": "",
+        "drops": "",
+        "fecha_ejecucion": "",
+        "time_respwan": ""
+    },
+    {
+        "nombre": "",
+        "imagen": "",
+        "nivel": "",
+        "lugar": "",
+        "drops": "",
+        "fecha_ejecucion": "",
+        "time_respwan": ""
+    },
+    {
+        "nombre": "",
+        "imagen": "",
+        "nivel": "",
+        "lugar": "",
+        "drops": "",
+        "fecha_ejecucion": "",
+        "time_respwan": ""
+    },
+    {
+        "nombre": "",
+        "imagen": "",
+        "nivel": "",
+        "lugar": "",
+        "drops": "",
+        "fecha_ejecucion": "",
+        "time_respwan": ""
+    },
+    {
+        "nombre": "",
+        "imagen": "",
+        "nivel": "",
+        "lugar": "",
+        "drops": "",
+        "fecha_ejecucion": "",
+        "time_respwan": ""
+    },
+    {
+        "nombre": "",
+        "imagen": "",
+        "nivel": "",
+        "lugar": "",
+        "drops": "",
+        "fecha_ejecucion": "",
+        "time_respwan": ""
+    },
+    {
+        "nombre": "",
+        "imagen": "",
+        "nivel": "",
+        "lugar": "",
+        "drops": "",
+        "fecha_ejecucion": "",
+        "time_respwan": ""
+    },
+    {
+        "nombre": "",
+        "imagen": "",
+        "nivel": "",
+        "lugar": "",
+        "drops": "",
+        "fecha_ejecucion": "",
+        "time_respwan": ""
+    },
+    {
+        "nombre": "",
+        "imagen": "",
+        "nivel": "",
+        "lugar": "",
+        "drops": "",
+        "fecha_ejecucion": "",
+        "time_respwan": ""
+    },
+    {
+        "nombre": "",
+        "imagen": "",
+        "nivel": "",
+        "lugar": "",
+        "drops": "",
+        "fecha_ejecucion": "",
+        "time_respwan": ""
+    },
+    {
+        "nombre": "",
+        "imagen": "",
+        "nivel": "",
+        "lugar": "",
+        "drops": "",
+        "fecha_ejecucion": "",
+        "time_respwan": ""
+    }
+]
